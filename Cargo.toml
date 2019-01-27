@@ -5,3 +5,4 @@ authors = ["ncaq <ncaq@ncaq.net>"]
 edition = "2018"
 
 [dependencies]
+crates-index = "0.12.1"

@@ -1,0 +1,6 @@
+[submodule "rust-crate-acme-everything"]
+	path = rust-crate-acme-everything
+	url = https://github.com/ncaq/rust-crate-acme-everything.git
+[submodule "crates.io-index"]
+	path = crates.io-index
+	url = https://github.com/rust-lang/crates.io-index.git

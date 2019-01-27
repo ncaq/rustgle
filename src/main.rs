@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    rustgle::app_main().unwrap();
 }
